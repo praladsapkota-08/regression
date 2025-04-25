@@ -1,0 +1,3 @@
+data/raw/cretitcard.csv
+*.csv
+data/processed/*.csv
